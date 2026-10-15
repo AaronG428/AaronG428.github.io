@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I build models that support basketball decisions: when an injured player will be back, what a shot or a rebound chance is really worth, and how much the schedule tilts the standings.\nI came to basketball analytics from quantitative trading, where I spent three years at two firms building statistical models that had to hold up when real money was on the line. That background shapes how I work: calibrated probabilities, honest validation against a benchmark, and outputs a decision-maker can act on without asking me how to read them."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nOklahoma City Thunder: Data Science Intern (Summer 2026)\n\nBuilt a Bayesian hierarchical survival model forecasting player return-to-play dates, scoring a 0.53 Brier skill score against Rotowire’s published timelines on held-out injuries\nBuilt the ETL pipeline behind it: an episode-level dataset of roughly 8,000 injuries across five seasons\nDelivered forecasts, injury histories and comparable-injury cohorts to front office and performance staff through a Streamlit app\n\nGeneva Trading: Quantitative Metals Trader (2023–2024)\nQuantitative strategies across futures and options, including a relative-value model trading precious metals against interest-rate products.\nXR Trading: Quantitative Crypto Trader (2021–2022)\nLow-latency multi-exchange arbitrage systems, post-trade analytics, and research on market microstructure and lead-lag dynamics."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nThe University of Chicago: M.S., Applied Data Science\nCapstone: a physics-informed variational autoencoder for prostate MRI that roughly tripled the accuracy of tissue measurements over the clinical baseline, with uncertainty intervals calibrated to hold on 7 of 9 parameters.\nThe University of Texas at Austin: B.S. Computer Science (Turing Scholars Honors), B.B.A. (Business Honors), B.S. Mathematics"
+  },
+  {
+    "objectID": "about.html#other-sports-work",
+    "href": "about.html#other-sports-work",
+    "title": "About",
+    "section": "Other sports work",
+    "text": "Other sports work\n\nMLB batter archetypes: HDBSCAN clustering of batting profiles to test whether lineup composition across archetypes drives run production"
+  },
+  {
+    "objectID": "about.html#a-note-on-data",
+    "href": "about.html#a-note-on-data",
+    "title": "About",
+    "section": "A note on data",
+    "text": "A note on data\nEverything on this site is rebuilt from public sources (NBA.com stats, play-by-play, public tracking releases). Nothing uses proprietary team data or code."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Basketball analytics for front-office decisions",
+    "section": "",
+    "text": "I’m Aaron Garay, a data scientist, former quant trader, and former Data Analyst Intern with the Oklahoma City Thunder. This site collects side projects that each answer a question a front office actually asks: who’s at risk of injury, which shots and rebounds a team should be getting, how hard a schedule really is, and how teams value assets in trades.\nEvery project is built from public data, with code linked and validation shown."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Basketball analytics for front-office decisions",
+    "section": "Featured work",
+    "text": "Featured work\n\n\n\n\nNo matching items\n\nAll projects →"
+  }
+]
